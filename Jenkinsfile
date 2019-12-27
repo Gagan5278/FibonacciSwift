@@ -1,5 +1,3 @@
 #!/bin/sh
 
-node {
-   sh ‘echo HelloWorld’
-}
+  echo 'HelloWorld'
