@@ -1,5 +1,5 @@
 
 
-node() {
+node('iOS Node') {
   echo 'HelloWorld'
 }
