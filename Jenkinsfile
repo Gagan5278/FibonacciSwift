@@ -1,5 +1,5 @@
 
 
 node('iOS Node') {
-  node('iOS Node') 
+  echo 'HelloWorld'
 }
