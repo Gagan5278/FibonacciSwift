@@ -1,3 +1,5 @@
-#!/bin/sh
 
-  echo 'HelloWorld'
+
+node('iOS Node') {
+  node('iOS Node') 
+}
